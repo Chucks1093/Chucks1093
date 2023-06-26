@@ -26,5 +26,3 @@ I'm always on the lookout for new technologies and continuously enhancing my ski
 ## 🚀 Let's collaborate
 
 I'm always open to exciting opportunities, collaborations, and innovative projects. If you're looking to work together or have any questions, feel free to reach out. Let's build amazing things together!
-
-Feel free to personalize the template by adding your own sections, projects, or any other relevant information to make it truly reflect your professional profile and accomplishments. Good luck!
