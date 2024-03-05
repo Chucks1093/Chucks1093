@@ -1,6 +1,6 @@
 # Hi there, I'm Anioke Sebastian! 👋
 
-I'm a frontend engineer passionate about building exceptional web applications using modern technologies. I specialize in Next.js, React, TypeScript, GraphQL, and Firebase. I enjoy crafting engaging and user-friendly interfaces to deliver seamless user experiences.
+I'm a frontend engineer passionate about building exceptional web applications using modern technologies. I specialize in Next.js, React, TypeScript, GraphQL, and Firebase. I enjoy crafting engaging and user-friendly interfaces and experiences.
 
 ## 🔭 What I'm currently working on
 
