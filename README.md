@@ -2,7 +2,7 @@
 
 I’m a full stack engineer who works on real web products with real users.
 
-I help early stage founders, startups, and small teams ship features faster, clean up fragile codebases, and stabilize frontend and backend systems without breaking things.
+I help early stage founders, startups, and small teams ship features faster, clean up fragile codebases, and fix frontend and backend systems without breaking there product.
 
 Most of the work I do is short term and focused. I come in, fix what’s blocking progress, ship what matters, and leave the product in a better state than I met it.
 
@@ -53,7 +53,7 @@ More detailed case studies live on my website.
 
 ## Contact
 
-If you’re working on a product that needs to be shipped, fixed, or stabilized, you can reach me here:
+If you’re working on a product that needs to be shipped or fixed you can reach me here:
 
 🌍 https://buildbettersites.com  
 📧 aniokechukwudi7@gmail.com
