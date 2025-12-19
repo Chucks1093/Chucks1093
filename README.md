@@ -1,4 +1,4 @@
-# Hi, I’m Sebastian Anioke 👋
+# Hi, I’m Sebastian 
 
 I’m a full stack engineer who works on real web products with real users.
 
@@ -12,7 +12,7 @@ Most of the work I do is short term and focused. I come in, fix what’s blockin
 
 - Building frontend applications from existing designs and APIs
 - Turning unfinished MVPs into usable products
-- Refactoring messy or fragile codebases
+- Refactoring unstructured or fragile codebases
 - Improving performance, reliability, and developer experience
 - Integrating APIs and fixing frontend backend issues
 - Shipping features safely on live products with users
