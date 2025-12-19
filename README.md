@@ -32,9 +32,9 @@ Most of the work I do is short term and focused. I come in, fix what’s blockin
 ## Tech I use often
 
 - Frontend: React, Next.js, TypeScript
-- Backend: Node.js, APIs, basic backend integrations
+- Backend: Node.js, APIs,Express, Bun
 - Databases: PostgreSQL
-- Infrastructure: AWS
+- Infrastructure: AWS, Railway, Vercel
 - Tooling: Git, GitHub
 
 (I choose tools based on the problem, not trends.)
