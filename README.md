@@ -37,7 +37,7 @@ Most of the work I do is short term and focused. I come in, fix what’s blockin
 - Infrastructure: AWS, Railway, Vercel
 - Tooling: Git, GitHub
 
-(I choose tools based on the problem, not trends.)
+(I choose tools based on the problem)
 
 ---
 
