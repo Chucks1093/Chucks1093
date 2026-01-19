@@ -17,40 +17,6 @@ Most of the work I do is short term and focused. I come in, fix what’s blockin
 - Integrating APIs and fixing frontend backend issues
 - Shipping features safely on live products with users
 
----
-
-## How I work
-
-- Short, clearly scoped engagements
-- Focus on shipping and stability, not over engineering
-- Clear boundaries on scope and timelines
-- Code that is readable, maintainable, and easy to extend
-- Regular progress updates and visible work
-
----
-
-## Tech I use often
-
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js, APIs,Express, Bun
-- Databases: PostgreSQL
-- Infrastructure: AWS, Railway, Vercel
-- Tooling: Git, GitHub
-
-(I choose tools based on the problem)
-
----
-
-## Recent work
-
-- Built the frontend for a habit tracking product using existing designs and APIs
-- Worked on an AI powered learning platform used by real users
-- Designed and built production ready landing pages and handled deployment
-
-More detailed case studies live on my website.
-
----
-
 ## Contact
 
 If you’re working on a product that needs to be shipped or fixed you can reach me here:
